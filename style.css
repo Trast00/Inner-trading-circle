@@ -51,11 +51,6 @@ nav {
   align-items: center;
 }
 
-@media screen and (max-width: 560px) {
-  .profile {
-    display: none;
-  }
-}
 
 .profile input {
   margin-right: 12px;
@@ -108,3 +103,16 @@ nav {
   margin-top: 60px;
 }
 
+
+/* Mobile version : changes */
+
+@media screen and (max-width: 560px) {
+  .profile {
+    display: none;
+  }
+
+  .headline {
+    background-position: right;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./images/background.png');
+  }
+}
