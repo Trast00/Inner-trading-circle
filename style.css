@@ -10,6 +10,22 @@ body {
   font-family: "Inter var", sans-serif;
 }
 
+.btn-action {
+  width: 150px;
+  padding: 8px;
+  border-radius: 20px;
+  color: #121212;
+  font-weight: 700;
+  background-color: #ECD11D;
+  transition-duration: 200ms;
+}
+
+.btn-action:hover {
+  color: white;
+  border: 2px solid #ECD11D;
+  background-color: transparent;
+}
+
 /* Header : nav */
 nav {
   width: 100%;
@@ -35,6 +51,12 @@ nav {
   align-items: center;
 }
 
+@media screen and (max-width: 560px) {
+  .profile {
+    display: none;
+  }
+}
+
 .profile input {
   margin-right: 12px;
   padding: 8px;
@@ -50,5 +72,39 @@ nav {
   border-radius: 50%;
 }
 
+/*Headline Section */
 
+.headline {
+  width: 100%;
+  min-height: 700px;
+  background-image: url('./images/background.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.headline .wrapper {
+  padding-left: 20px;
+  padding-top: 80px;
+}
+
+.headline h6 {
+  color: #BDBDBD;
+  font-size: 1rem;
+}
+
+.headline h2 {
+  color: #ECD11D;
+  font-size: 2.4rem;
+}
+
+.headline p {
+  color: #F3F3F3;
+  font-size: 1.2rem;
+}
+
+.headline .btn-action {
+  margin-top: 60px;
+}
 
