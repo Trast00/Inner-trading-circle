@@ -23,6 +23,10 @@ body {
   background-color: #ECD11D;
   transition-duration: 200ms;
   border: none;
+  text-decoration: none;
+
+  display: flex;
+  justify-content: center;
 }
 
 .btn-action:hover {
@@ -60,6 +64,7 @@ nav {
 .profile input {
   margin-right: 12px;
   padding: 8px;
+  color: white;
   background: rgba(255, 255, 255, 0.2);
   border: none;
   border-radius: 4px;
@@ -85,7 +90,7 @@ nav {
 }
 
 .headline .wrapper {
-  padding-left: 20px;
+  padding-left: 5vw;
   padding-top: 80px;
 }
 
@@ -178,6 +183,7 @@ nav {
   align-items: center;
   padding: 12px;
   border: 2px solid #BDA400;
+  text-decoration: none;
 }
 
 .btn-connect p {
