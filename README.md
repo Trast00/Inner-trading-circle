@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 
 <h1>Hi👋! Michael J. Huddleston, I'm Allassane Dicko 😁</h1>
-I'm a full-stack web developer **student** who volonteer in my free time
+
+I'm a full-stack web developer **student** who volonteer in my free time.
 
 **[Click Here to see the web site live demo](https://trast00.github.io/Inner-trading-circle/)**
 
@@ -11,7 +12,9 @@ I'm a full-stack web developer **student** who volonteer in my free time
 
 **3. If you have any questions or concern you can reach me out: dickoallassane1997@gmail.com**
 
-**4. If you want to work more with me, You can hire me as part time for than 6$/hours (contact me by email: dickoallassane1997@gmail.com**
+**4. If you want to work more with me, You can hire me as part time for than 6$/hours**
+**Check more of my work on my personal website: [my website](https://trast00.github.io/Portfolio/)**
+**contact me by email: dickoallassane1997@gmail.com)**
 
 
 # 📗 Table of Contents
