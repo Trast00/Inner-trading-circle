@@ -12,7 +12,7 @@ I'm a full-stack web developer **student** who volonteer in my free time.
 
 **3. If you have any questions or concern you can reach me out: dickoallassane1997@gmail.com**
 
-**4. If you want to work more with me, You can hire me as part time for than 6$/hours**
+**4. If you want to work more with me, You can hire me as part time**
 **Check more of my work on my personal website: [my website](https://trast00.github.io/Portfolio/)**
 **contact me by email: dickoallassane1997@gmail.com)**
 
